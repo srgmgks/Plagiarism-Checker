@@ -2,7 +2,7 @@
 
 This is a simple Python script that allows you to check for plagiarism between multiple text files. It calculates the percentage of common words shared between the files, which can give you an idea of the similarity between them.
 
-How it works
+## How it works
 
 The script uses the following steps to perform the plagiarism check:
 
@@ -13,11 +13,11 @@ The script uses the following steps to perform the plagiarism check:
 5. Computes the plagiarism percentage based on the number of common words and the total unique words between two files.
 6. Prints the plagiarism percentage for all file pairs that have some degree of plagiarism.
 
-Requirements
+## Requirements
 
 Python 3.x
 
-How to use
+## How to use
 
 1. Clone this repository to your local machine or download the script directly.
 2. Ensure you have Python 3.x installed on your computer.
@@ -25,7 +25,7 @@ How to use
 4. Enter the number of files you want to check for plagiarism.
 5. Enter the names of the files you want to analyze. Make sure they are in the same directory as the script or provide the correct file paths.
 
-Example Usage
+## Example Usage
 
 $ python p.py
 
