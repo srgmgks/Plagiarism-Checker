@@ -32,7 +32,9 @@ $ python p.py
 Enter the number of files to check for plagiarism: 3
 
 Enter the name of file 1: file1.txt
+
 Enter the name of file 2: file2.txt
+
 Enter the name of file 3: file3.txt
 
 Files to check for plagiarism:
@@ -41,12 +43,15 @@ file2.txt
 file3.txt
 
 Plagiarism detected between file1.txt and file2.txt
+
 Plagiarism Percentage: 45.36%
 
 Plagiarism detected between file1.txt and file3.txt
+
 Plagiarism Percentage: 23.17%
 
 Plagiarism detected between file2.txt and file3.txt
+
 Plagiarism Percentage: 38.56%
 
 
